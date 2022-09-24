@@ -1,1 +1,1 @@
-# rsschool-cv
+https://snailans.github.io/rsschool-cv/cv
