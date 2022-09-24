@@ -19,10 +19,7 @@
 A novice Frontend developer, or rather a student trainee developing in the direction of web development. A lover of creativity and coding.
 Web development is interesting because here you can combine design and logic (coding), and eventually make a great product, here a person is not 
 limited only to logic or design creation, in web development you can pump both sides, play with design and use code to bring it all to life. 
-I chose this direction because I want to develop both creatively and programmatically.  
-I like to learn something new, learn new things, do and create something cool and useful, have more skills and experience behind my back. 
-I can't say that I always find enough time for all this, but even if I am developing slowly, I will not stop, because I am really in love with this case,
-and I will do everything not just to join this sphere, but to become a part of this sphere.
+I chose this direction because I want to develop both creatively and programmatically.  I like to learn something new, learn new things, do and create something cool and useful, have more skills and experience behind my back. I can't say that I always find enough time for all this, but even if I am developing slowly, I will not stop, because I am really in love with this case, and I will do everything not just to join this sphere, but to become a part of this sphere.
 
 ---
 
