@@ -9,7 +9,7 @@
 **Phone:** +996 (507) 64-07-64\
 **E-mail:** yohanismufasa@gmail.com\
 **Telegram:** [@snailans](https://t.me/snailans)\
-**Location** Bishkek, Kyrgyzstan\
+**Location:** Bishkek, Kyrgyzstan\
 [LinkedIn](https://www.linkedin.com/in/moriah-t-0b56a520b/)
 
 ---
