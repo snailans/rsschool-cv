@@ -50,7 +50,7 @@ multiply(5,7);
 
 ### Courses:
 
-- ["50,000 programmers. One family - one programmer" (Front-end)](https://programmer.kg/en1)
+- [50,000 programmers. One family - one programmer (Front-end)](https://programmer.kg/en1)
 - [OneCLick (Front-End)](https://one-click.pro/)
 - RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
